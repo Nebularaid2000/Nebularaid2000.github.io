@@ -11,9 +11,9 @@ title                    : "Home" # rqh
 title_separator          : "-"
 name                     : &name "Qihan Ren" # rqh
 description              : &description "Senior student at Shanghai Jiao Tong University" # todo
-url                      : https://Nebularaid2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nebularaid2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Nebularaid2000/Nebularaid2000.github.io"
+repository               : "nebularaid2000/nebularaid2000.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Nebularaid2000"
+  github           : "nebularaid2000"
   google_plus      :
   keybase          :
   instagram        :
