@@ -21,18 +21,24 @@ My research interests include:
 
 Publications
 ======
-* Interpreting Representation Quality of DNNs for 3D Point Cloud Processing      
-    Wen Shen, **Qihan Ren**, Dongrui Liu, and Quanshi Zhang
-    NeurIPS, 2021
-    [PDF]() [Code](https://github.com/ada-shen/Interpret_quality) [Video](https://nips.cc/virtual/2021/poster/27421)
+* Interpreting Representation Quality of DNNs for 3D Point Cloud Processing   
+
+  Wen Shen, **Qihan Ren**, Dongrui Liu, and Quanshi Zhang
+
+  NeurIPS, 2021
+
+  [PDF]() [Code](https://github.com/ada-shen/Interpret_quality) [Video](https://nips.cc/virtual/2021/poster/27421)
 
 * Discovering and Explaining the Representation Bottleneck of DNNs
-    Huiqi Deng*, **Qihan Ren***, Hao Zhang, and Quanshi Zhang
-    ICLR(Oral), 2021
-    [PDF]() [Code](https://github.com/Nebularaid2000/bottleneck) [Video](https://iclr.cc/virtual/2022/oral/6623) [Blog(Chinese)](https://zhuanlan.zhihu.com/p/422420088)
+
+  Huiqi Deng\*, **Qihan Ren\***, Hao Zhang, and Quanshi Zhang
+
+  ICLR(Oral), 2021
+
+  [PDF]() [Code](https://github.com/Nebularaid2000/bottleneck) [Video](https://iclr.cc/virtual/2022/oral/6623) [Blog(Chinese)](https://zhuanlan.zhihu.com/p/422420088)
 
 
 Invited Talks
 ======
-* [2022-04-26] Give a Talk at TechBeat with [Huiqi Deng](https://huiqideng1.netlify.app/). [Link](https://www.techbeat.net/talk-info?id=657)
-* [2022-03-09] Give a Talk at BAIYULAN OPEN AI with [Huiqi Deng](https://huiqideng1.netlify.app/). [Link](https://www.slidestalk.com/Baiyulan/85933?video)
+* [2022-04-26] Give a Talk at TechBeat with [Huiqi Deng](https://huiqideng1.netlify.app/). [Recording link](https://www.techbeat.net/talk-info?id=657)
+* [2022-03-09] Give a Talk at BAIYULAN OPEN AI with [Huiqi Deng](https://huiqideng1.netlify.app/). [Recording link](https://www.slidestalk.com/Baiyulan/85933?video)
