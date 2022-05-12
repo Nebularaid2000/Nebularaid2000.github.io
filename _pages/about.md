@@ -22,13 +22,13 @@ My research interests include:
 Publications
 ======
 * Interpreting Representation Quality of DNNs for 3D Point Cloud Processing   
-    Wen Shen, **Qihan Ren**, Dongrui Liu, and Quanshi Zhang
-    NeurIPS 2021
+    Wen Shen, **Qihan Ren**, Dongrui Liu, and Quanshi Zhang  
+    NeurIPS 2021  
     [[PDF]](https://arxiv.org/abs/2111.03549) [[Code]](https://github.com/ada-shen/Interpret_quality) [[Video]](https://nips.cc/virtual/2021/poster/27421)
 
-* Discovering and Explaining the Representation Bottleneck of DNNs
-    Huiqi Deng\*, **Qihan Ren\***, Hao Zhang, and Quanshi Zhang
-    ICLR 2021 (Oral)
+* Discovering and Explaining the Representation Bottleneck of DNNs  
+    Huiqi Deng\*, **Qihan Ren\***, Hao Zhang, and Quanshi Zhang  
+    ICLR 2021 (Oral)  
     [[PDF]](https://openreview.net/forum?id=iRCUlgmdfHJ) [[Code]](https://github.com/Nebularaid2000/bottleneck) [[Video]](https://iclr.cc/virtual/2022/oral/6623) [[Blog(Chinese)]](https://zhuanlan.zhihu.com/p/422420088)
 
 
