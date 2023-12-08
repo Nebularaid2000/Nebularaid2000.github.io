@@ -21,22 +21,22 @@ My research interests include:
 
 Publications
 ======
-* Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities  
+* _Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities_  
     Dongrui Liu\*, Huiqi Deng\*, Xu Cheng, **Qihan Ren**, Kangrui Wang, and Quanshi Zhang  
     NeurIPS 2023  
     [[PDF]](https://openreview.net/forum?id=mZ3hnyL9bS)
 
-* Bayesian Neural Networks Avoid Encoding Perturbation-sensitive and Complex Concepts  
+* _Bayesian Neural Networks Avoid Encoding Perturbation-sensitive and Complex Concepts_  
     **Qihan Ren**\*, Huiqi Deng\*, Yunuo Chen, Siyu Lou, and Quanshi Zhang  
     ICML 2023  
     [[PDF]](https://openreview.net/forum?id=UkG4Nn634P) [[Code]](https://github.com/sjtu-xai-lab/BNN-concepts) [[Video]](https://icml.cc/virtual/2023/poster/24385)
 
-* Discovering and Explaining the Representation Bottleneck of DNNs  
+* _Discovering and Explaining the Representation Bottleneck of DNNs_  
     Huiqi Deng\*, **Qihan Ren**\*, Hao Zhang, and Quanshi Zhang  
     ICLR 2022 (Oral)  
     [[PDF]](https://openreview.net/forum?id=iRCUlgmdfHJ) [[Code]](https://github.com/Nebularaid2000/bottleneck) [[Video]](https://iclr.cc/virtual/2022/oral/6623) [[Blog(Chinese)]](https://zhuanlan.zhihu.com/p/422420088)
 
-* Interpreting Representation Quality of DNNs for 3D Point Cloud Processing   
+* _Interpreting Representation Quality of DNNs for 3D Point Cloud Processing_   
     Wen Shen, **Qihan Ren**, Dongrui Liu, and Quanshi Zhang  
     NeurIPS 2021  
     [[PDF]](https://arxiv.org/abs/2111.03549) [[Code]](https://github.com/ada-shen/Interpret_quality) [[Video]](https://nips.cc/virtual/2021/poster/27421)
