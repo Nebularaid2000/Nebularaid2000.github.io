@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Currently, I'm a Senior student major in Electrical and Computer Engineering (ECE) at University of Michigan - Shanghai Jiao Tong University Joint Insititute (UM-SJTU JI). I enrolled in the Dual Degree Program, in which I'm pursuing a second degree in Computer Science (CS) at University of Michigan, Ann Arbor. I will receive the B.Eng. degree in CS in Apr. 2022 and the B.Eng. degree in ECE in Aug. 2022. After that, I will be pursuing my Ph.D. degree under the supervision of [Prof. Quanshi Zhang](http://qszhang.com) at Shanghai Jiao Tong University.
+Currently, I'm a second year Ph.D. student major in Computer Science (CS) at Shanghai Jiao Tong University, under the supervision of [Prof. Quanshi Zhang](http://qszhang.com). Previously, I enrolled in the Dual Degree Program at University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI), in which I obtained a B.Eng. degree in CS at University of Michigan, Ann Arbor, and a B.Eng. degree in Electrical and Computer Engineering (ECE) at Shanghai Jiao Tong University.
 
 Research Interests
 ======
@@ -21,8 +21,18 @@ My research interests include:
 
 Publications
 ======
+* Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities  
+    Dongrui Liu\*, Huiqi Deng\*, Xu Cheng, **Qihan Ren**, Kangrui Wang, and Quanshi Zhang  
+    NeurIPS 2023  
+    [[PDF]](https://openreview.net/forum?id=mZ3hnyL9bS)
+
+* Bayesian Neural Networks Avoid Encoding Perturbation-sensitive and Complex Concepts  
+    **Qihan Ren**\*, Huiqi Deng\*, Yunuo Chen, Siyu Lou, and Quanshi Zhang  
+    ICML 2023  
+    [[PDF]](https://openreview.net/forum?id=UkG4Nn634P) [[Code]](https://github.com/sjtu-xai-lab/BNN-concepts) [[Video]](https://icml.cc/virtual/2023/poster/24385)
+
 * Discovering and Explaining the Representation Bottleneck of DNNs  
-    Huiqi Deng\*, **Qihan Ren\***, Hao Zhang, and Quanshi Zhang  
+    Huiqi Deng\*, **Qihan Ren**\*, Hao Zhang, and Quanshi Zhang  
     ICLR 2022 (Oral)  
     [[PDF]](https://openreview.net/forum?id=iRCUlgmdfHJ) [[Code]](https://github.com/Nebularaid2000/bottleneck) [[Video]](https://iclr.cc/virtual/2022/oral/6623) [[Blog(Chinese)]](https://zhuanlan.zhihu.com/p/422420088)
 
