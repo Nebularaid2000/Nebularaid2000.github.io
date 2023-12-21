@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home" # rqh
 title_separator          : "-"
 name                     : &name "Qihan Ren" # rqh
-description              : &description "Senior student at Shanghai Jiao Tong University" # todo
+description              : &description "Ph.D. student at Shanghai Jiao Tong University" # todo
 url                      : https://nebularaid2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nebularaid2000/nebularaid2000.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Qihan Ren"
-  avatar           : "profile.png"
-  bio              : "B.Eng., major in ECE and CS, Shanghai Jiao Tong University & University of Michigan Ann Arbor"
+  avatar           : "renqihan-formal-photo.jpg"
+  bio              : "Ph.D., Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ybTy_DwAAAAJ"
   email            : "renqihan@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nebularaid2000"
+  github           : "https://github.com/Nebularaid2000"
   google_plus      :
   keybase          :
   instagram        :
