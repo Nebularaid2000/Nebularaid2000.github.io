@@ -26,31 +26,31 @@ Publications
 (* indicates equal contribution)
 
 * **Towards the Dynamics of a DNN Learning Symbolic Interactions**  
-    <font color=gray>**Qihan Ren**\*, Junpeng Zhang\*, Yang Xu, Yue Xin, Dongrui Liu, and Quanshi Zhang</font>  
+    **Qihan Ren**\*, Junpeng Zhang\*, Yang Xu, Yue Xin, Dongrui Liu, and Quanshi Zhang  
     [Arxiv](https://arxiv.org/abs/2407.19198)
 
 * **Where We Have Arrived in Proving the Emergence of Sparse Interaction Primitives in DNNs**  
-    <font color=gray>**Qihan Ren**, Jiayang Gao, Wen Shen, and Quanshi Zhang</font>  
+    **Qihan Ren**, Jiayang Gao, Wen Shen, and Quanshi Zhang  
     ICLR 2024 / [Paper](https://openreview.net/forum?id=3pWSL8My6B) / [Code](https://github.com/sjtu-xai-lab/interaction-sparsity)
 
 * **Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing**  
-    <font color=gray>Wen Shen, Zhihua Wei, **Qihan Ren**, Binbin Zhang, Shikun Huang, Jiaqi Fan, and Quanshi Zhang</font>  
+    Wen Shen, Zhihua Wei, **Qihan Ren**, Binbin Zhang, Shikun Huang, Jiaqi Fan, and Quanshi Zhang  
     IEEE T-PAMI 2024 / [Paper](https://ieeexplore.ieee.org/abstract/document/10384563)
 
 * **Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities**  
-    <font color=gray>Dongrui Liu\*, Huiqi Deng\*, Xu Cheng, **Qihan Ren**, Kangrui Wang, and Quanshi Zhang</font>  
+    Dongrui Liu\*, Huiqi Deng\*, Xu Cheng, **Qihan Ren**, Kangrui Wang, and Quanshi Zhang  
     NeurIPS 2023 / [Paper](https://openreview.net/forum?id=mZ3hnyL9bS) / [Code](https://github.com/sjtu-xai-lab/Learn)
 
 * **Bayesian Neural Networks Avoid Encoding Perturbation-sensitive and Complex Concepts**  
-    <font color=gray>**Qihan Ren**\*, Huiqi Deng\*, Yunuo Chen, Siyu Lou, and Quanshi Zhang</font>  
+    **Qihan Ren**\*, Huiqi Deng\*, Yunuo Chen, Siyu Lou, and Quanshi Zhang  
     ICML 2023 / [Paper](https://openreview.net/forum?id=UkG4Nn634P) / [Code](https://github.com/sjtu-xai-lab/BNN-concepts) / [Video](https://icml.cc/virtual/2023/poster/24385)
 
 * **Discovering and Explaining the Representation Bottleneck of DNNs**  
-    <font color=gray>Huiqi Deng\*, **Qihan Ren**\*, Hao Zhang, and Quanshi Zhang</font>  
-    ICLR 2022 <font color=#BB0000>**(Oral)**</font> / [Paper](https://openreview.net/forum?id=iRCUlgmdfHJ) / [Code](https://github.com/Nebularaid2000/bottleneck) / [Video](https://iclr.cc/virtual/2022/oral/6623) / [Blog(Chinese)](https://zhuanlan.zhihu.com/p/422420088)
+    Huiqi Deng\*, **Qihan Ren**\*, Hao Zhang, and Quanshi Zhang  
+    ICLR 2022 **(Oral)** / [Paper](https://openreview.net/forum?id=iRCUlgmdfHJ) / [Code](https://github.com/Nebularaid2000/bottleneck) / [Video](https://iclr.cc/virtual/2022/oral/6623) / [Blog(Chinese)](https://zhuanlan.zhihu.com/p/422420088)
 
 * **Interpreting Representation Quality of DNNs for 3D Point Cloud Processing**   
-    <font color=gray>Wen Shen, **Qihan Ren**, Dongrui Liu, and Quanshi Zhang</font>  
+    Wen Shen, <u>Qihan Ren</u>, Dongrui Liu, and Quanshi Zhang  
     NeurIPS 2021 / [Paper](https://arxiv.org/abs/2111.03549) / [Code](https://github.com/ada-shen/Interpret_quality) / [Video](https://nips.cc/virtual/2021/poster/27421)
 
 
