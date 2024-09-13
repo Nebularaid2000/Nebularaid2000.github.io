@@ -56,7 +56,7 @@ Publications
 
 ### Books
 
-* Engaged in the writing of the book "**Introduction to Explanable Artificial Intelligence**" (in Chinese **可解释人工智能导论**) as a co-author.   
+* Engaged in the writing of the book "**Introduction to Explainable Artificial Intelligence**" (in Chinese **可解释人工智能导论**) as a co-author.   
     [Book link](https://item.jd.com/13700578.html) 
 
 
