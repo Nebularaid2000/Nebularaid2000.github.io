@@ -27,7 +27,7 @@ Publications
 
 * **Towards the Dynamics of a DNN Learning Symbolic Interactions**  
     <u>Qihan Ren</u>\*, Junpeng Zhang\*, Yang Xu, Yue Xin, Dongrui Liu, and Quanshi Zhang  
-    [Arxiv](https://arxiv.org/abs/2407.19198) / [Zhihu](https://zhuanlan.zhihu.com/p/711281443)
+    NeurIPS 2024 / [Paper](https://arxiv.org/abs/2407.19198) / [Zhihu](https://zhuanlan.zhihu.com/p/711281443)
 
 * **Where We Have Arrived in Proving the Emergence of Sparse Interaction Primitives in DNNs**  
     <u>Qihan Ren</u>, Jiayang Gao, Wen Shen, and Quanshi Zhang  
