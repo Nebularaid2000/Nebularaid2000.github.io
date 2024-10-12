@@ -9,14 +9,20 @@ redirect_from:
 ---
 
 
-Currently, I'm a second year Ph.D. student major in Computer Science (CS) at Shanghai Jiao Tong University, advised by [Prof. Quanshi Zhang](http://qszhang.com). Previously, I enrolled in the Dual Degree Program at University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI), in which I obtained a B.Eng. degree in CS at University of Michigan, Ann Arbor, and a B.Eng. degree in Electrical and Computer Engineering (ECE) at Shanghai Jiao Tong University.
+Currently, I'm a third year Ph.D. student in Computer Science (CS) at Shanghai Jiao Tong University, advised by [Prof. Quanshi Zhang](http://qszhang.com). Previously, I enrolled in the Dual Degree Program at University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI), in which I obtained a B.S.Eng. degree in CS at University of Michigan, Ann Arbor, and a B.S.Eng. degree in Electrical and Computer Engineering (ECE) at Shanghai Jiao Tong University.
 
-Research Interests
-======
 My research interests include:
 - Explainable AI (XAI)
 - Machine Learning
 - Computer Vision
+- Natural Language Processing
+
+
+News
+======
+- [2024-09-28] I will give a talk at "AI+X" National Excellent PhD Forum at Peking University.
+- [2024-09-25] One paper accepted by NeurIPS 2024. See you in Vancouver (hopefully)!
+
 
 
 Publications
@@ -56,12 +62,13 @@ Publications
 
 ### Books
 
-* Engaged in the writing of the book "**Introduction to Explainable Artificial Intelligence**" (in Chinese **可解释人工智能导论**) as a co-author.   
+* Engaged in the writing of the book "**Introduction to Explainable Artificial Intelligence**" (in Chinese **可解释人工智能导论**) as a chapter co-author.   
     [Book link](https://item.jd.com/13700578.html) 
 
 
 
 Invited Talks
 ======
-* [2022-04-26] Give a Talk at TechBeat with [Huiqi Deng](https://huiqideng1.netlify.app/). [Recording link](https://www.techbeat.net/talk-info?id=657)
-* [2022-03-09] Give a Talk at BAIYULAN OPEN AI with [Huiqi Deng](https://huiqideng1.netlify.app/). [Recording link](https://www.slidestalk.com/Baiyulan/85933?video)
+* [2024-09-28] _Theory and Dynamical analysis of Symbolic Concepts Encoded by Deep Neural Networks._ "AI+X" National Excellent PhD Forum ("AI+X"全国优秀博士生论坛) at Peking University.
+* [2022-04-26] _Discovering and Explaining the Representation Bottleneck of DNNs._ At TechBeat with [Huiqi Deng](https://huiqideng1.netlify.app/). [Recording link](https://www.techbeat.net/talk-info?id=657)
+* [2022-03-09] _Discovering and Explaining the Representation Bottleneck of DNNs._ At BAIYULAN OPEN AI, with [Huiqi Deng](https://huiqideng1.netlify.app/). See [recording link](https://www.slidestalk.com/Baiyulan/85933?video).
