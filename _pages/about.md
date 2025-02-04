@@ -66,13 +66,22 @@ Currently, my research focuses on Explainable AI (XAI):
 
 
 
-## Presentations & Invited Talks
+## Presentations and Invited Talks
 
 * [2024.11-12] _Can inference logic of a neural network be faithfully explained as symbolic concepts?_ Talks at University of California, Los Angeles (**UCLA**) / University of Southern California (**USC**) / University of California, Berkeley (**UCB**) / Johns Hopkins University (**JHU**) / University of Pennsylvania (**UPenn**). <!-- (2024.11.16-12.7) -->
 * [2024.10] _Can inference logic of a neural network be faithfully explained as symbolic concepts?_  Remote talk at Carnegie Mellon University (**CMU**) with Prof. Quanshi Zhang. <!-- (2024.10.22) -->
 * [2024.09] _Theory and dynamical analysis of symbolic concepts encoded by deep neural networks._ "AI+X" National Excellent PhD Forum ("AI+X"全国优秀博士生论坛) at Peking University. <!-- (2024.9.28) -->
 * [2022.04] _Discovering and explaining the representation bottleneck of DNNs._ At TechBeat with [Huiqi Deng](https://huiqideng1.netlify.app/). See [recording link](https://www.techbeat.net/talk-info?id=657). <!-- (2022.4.26) -->
 * [2022.03] _Discovering and explaining the representation bottleneck of DNNs._ At BAIYULAN OPEN AI, with [Huiqi Deng](https://huiqideng1.netlify.app/). See [recording link](https://www.slidestalk.com/Baiyulan/85933?video). <!-- (2022.3.9) -->
+
+
+## Selected Honors and Awards
+- [2024.12] First Prize in the Excellent PhD Forum at John Hopcroft Center, SJTU
+- [2022.06] Outstanding graduate of Shanghai Jiao Tong University
+- [2022.01] James B. Angell Scholar
+- [2021.12] Dean’s List of University of Michigan
+- [2020.10] National Scholarship (ranking 1/244)
+- [2019.10] National Scholarship (ranking 1/244)
 
 
 ## Teaching
