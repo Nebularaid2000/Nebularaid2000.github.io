@@ -9,25 +9,24 @@ redirect_from:
 ---
 
 
-Currently, I'm a third year Ph.D. student in Computer Science (CS) at Shanghai Jiao Tong University, advised by Prof. [Quanshi Zhang](http://qszhang.com). Previously, I enrolled in the Dual Degree Program at University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI), in which I obtained a B.S.Eng. degree in CS at University of Michigan, Ann Arbor, and a B.S.Eng. degree in Electrical and Computer Engineering (ECE) at Shanghai Jiao Tong University.
+I'm a third-year Ph.D. student in Computer Science at Shanghai Jiao Tong University (SJTU), advised by Prof. [Quanshi Zhang](http://qszhang.com). I'm a member of the [Lab for Interpretable Machine Learning](https://sjtu-xai-lab.github.io/). Previously, I enrolled in the Dual Degree Program at University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI), in which I obtained a B.S.Eng. degree in Computer Science at University of Michigan, Ann Arbor, and a B.S.Eng. degree in Electrical and Computer Engineering (ECE) at Shanghai Jiao Tong University.
 
-My research interests include:
-- Explainable AI (XAI)
-- Machine Learning
-- Computer Vision
-- Natural Language Processing
+Currently, my research focuses on Explainable AI (XAI):
+- Explaining artificial intelligence models (especially deep neural networks) with symbolic concepts
+- Analyzing the dynamics of symbolic concepts learned by neural networks during the training process
+- Manipulating/debugging neural networks at the concept level. 
+- I also have a broad interest in general topics in machine learning, computer vision, and trustworthy large language models (LLMs).
 
 
-News
-======
-- [2024.10] Remote talk at Carnegie Mellon University (**CMU**) with Prof. [Quanshi Zhang](http://qszhang.com).
+## News
+- [2024.11-12] Talks at University of California, Los Angeles (**UCLA**) / University of Southern California (**USC**) / University of California, Berkeley (**UCB**) / Johns Hopkins University (**JHU**) / University of Pennsylvania (**UPenn**). An unforgettable journey in the U.S.!
+- [2024.10] Remote talk at Carnegie Mellon University (**CMU**) with Prof. Quanshi Zhang.
 - [2024.09] Talk at "AI+X" National Excellent PhD Forum at Peking University.
 - [2024.09] One paper (see [Project page](https://sjtu-xai-lab.github.io/InteractionDynamics/)) accepted by **NeurIPS 2024**!
+- [2024.01] One paper (see [Project page](https://sjtu-xai-lab.github.io/InteractionSparsity/)) accepted by **ICLR 2024**!
 
 
-
-Publications
-======
+## Publications
 ### Conference papers
 (* indicates equal contribution)
 
@@ -60,17 +59,26 @@ Publications
     Wen Shen, Zhihua Wei, <u>Qihan Ren</u>, Binbin Zhang, Shikun Huang, Jiaqi Fan, and Quanshi Zhang  
     IEEE T-PAMI 2024 / [Paper](https://ieeexplore.ieee.org/abstract/document/10384563)
 
-### Books
+### Book chapters
 
 * Engaged in the writing of the book "**Introduction to Explainable Artificial Intelligence**" (in Chinese **可解释人工智能导论**) as a chapter co-author.   
     [Book link](https://item.jd.com/13700578.html) 
 
 
 
-Invited Talks
-======
+## Presentations & Invited Talks
 
-* [2024.10] _Can inference logic of a neural network be faithfully explained as symbolic concepts?_  Remote talk at Carnegie Mellon University (**CMU**) with Prof. [Quanshi Zhang](http://qszhang.com). <!-- (2024.10.22) -->
+* [2024.11-12] _Can inference logic of a neural network be faithfully explained as symbolic concepts?_ Talks at University of California, Los Angeles (**UCLA**) / University of Southern California (**USC**) / University of California, Berkeley (**UCB**) / Johns Hopkins University (**JHU**) / University of Pennsylvania (**UPenn**). <!-- (2024.11.16-12.7) -->
+* [2024.10] _Can inference logic of a neural network be faithfully explained as symbolic concepts?_  Remote talk at Carnegie Mellon University (**CMU**) with Prof. Quanshi Zhang. <!-- (2024.10.22) -->
 * [2024.09] _Theory and dynamical analysis of symbolic concepts encoded by deep neural networks._ "AI+X" National Excellent PhD Forum ("AI+X"全国优秀博士生论坛) at Peking University. <!-- (2024.9.28) -->
 * [2022.04] _Discovering and explaining the representation bottleneck of DNNs._ At TechBeat with [Huiqi Deng](https://huiqideng1.netlify.app/). See [recording link](https://www.techbeat.net/talk-info?id=657). <!-- (2022.4.26) -->
 * [2022.03] _Discovering and explaining the representation bottleneck of DNNs._ At BAIYULAN OPEN AI, with [Huiqi Deng](https://huiqideng1.netlify.app/). See [recording link](https://www.slidestalk.com/Baiyulan/85933?video). <!-- (2022.3.9) -->
+
+
+## Teaching
+* **Machine Learning** (CS3308 & CS3612), SJTU. Spring 2023 / Spring 2024.<br>
+    Teaching assistant<br>
+    Instructor: Quanshi Zhang
+* **Academic Writing** (VY100 & VY200), SJTU. Fall 2022 / Fall 2023.<br>
+    Teaching Assistant<br>
+    Instructor: Andrew Yang
