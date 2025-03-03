@@ -27,8 +27,15 @@ Currently, my research focuses on Explainable AI (XAI):
 
 
 ## Publications
-### Conference papers
 (* indicates equal contribution)
+
+### Preprints
+
+* **Revisiting Generalization Power of a DNN in Terms of Symbolic Interactions**  
+    Lei Cheng, Junpeng Zhang, <u>Qihan Ren</u>, Quanshi Zhang  
+    arxiv 2025 / [Paper](https://arxiv.org/abs/2502.10162)
+
+### Conference papers
 
 * **Towards the Dynamics of a DNN Learning Symbolic Interactions**  
     <u>Qihan Ren</u>\*, Junpeng Zhang\*, Yang Xu, Yue Xin, Dongrui Liu, and Quanshi Zhang  
