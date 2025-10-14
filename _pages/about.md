@@ -37,11 +37,11 @@ My research focuses on Explainable AI (XAI), LLM Safety and Trustworthiness, LLM
 ### Preprints
 
 * **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents**  
-    Shuai Shao*, <u>Qihan Ren</u>*, Chen Qian, Boyi Wei, Dadi Guo, Jingyi Yang, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao  
+    Shuai Shao\*, <u>Qihan Ren</u>\*, Chen Qian, Boyi Wei, Dadi Guo, Jingyi Yang, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao  
     arxiv 2025 / [Paper](https://arxiv.org/abs/2509.26354) / [GitHub](https://github.com/ShaoShuai0605/Misevolution)
 
 * **Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models**  
-    Guanxu Chen*, Yafu Li*, Yuxian Jiang, Chen Qian, <u>Qihan Ren</u>, Jingyi Yang, Yu Cheng, Dongrui Liu, Jing Shao  
+    Guanxu Chen\*, Yafu Li\*, Yuxian Jiang, Chen Qian, <u>Qihan Ren</u>, Jingyi Yang, Yu Cheng, Dongrui Liu, Jing Shao  
     arxiv 2025 / [Paper](https://arxiv.org/abs/2509.23962) / [GitHub](https://github.com/biuboomc/CANON)
 
 * **A Survey of Self-evolving Agents: On Path to Artificial Super Intelligence**  
@@ -49,7 +49,7 @@ My research focuses on Explainable AI (XAI), LLM Safety and Trustworthiness, LLM
     arxiv 2025 / [Paper](https://arxiv.org/abs/2507.21046) / [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents)
 
 * **Alita: Generalist Agent Enabling Ccalable Agentic Reasoning with Minimal Predefinition and Maximal Self-evolution**  
-    Jiahao Qiu*, Xuan Qi*, Tongcheng Zhang*, Xinzhe Juan, Jiacheng Guo, Yifu Lu, Yimin Wang, Zixin Yao, <u>Qihan Ren</u>, Xun Jiang, Xing Zhou, Dongrui Liu, Ling Yang, Yue Wu, Kaixuan Huang, Shilong Liu, Hongru Wang, Mengdi Wang  
+    Jiahao Qiu\*, Xuan Qi\*, Tongcheng Zhang\*, Xinzhe Juan, Jiacheng Guo, Yifu Lu, Yimin Wang, Zixin Yao, <u>Qihan Ren</u>, Xun Jiang, Xing Zhou, Dongrui Liu, Ling Yang, Yue Wu, Kaixuan Huang, Shilong Liu, Hongru Wang, Mengdi Wang  
     arxiv 2025 / [Paper](https://arxiv.org/abs/2505.20286) / [GitHub](https://github.com/CharlesQ9/Alita)
 
 * **Revisiting Generalization Power of a DNN in Terms of Symbolic Interactions**  
