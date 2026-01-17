@@ -28,7 +28,7 @@ My research focuses on Explainable AI (XAI), LLM Safety and Trustworthiness, LLM
 ## Projects
 
 * **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law**  
-    Core contributor, responsible for efficient & safety-aware reasoning training. Work done during an internship at Shanghai AI Lab.  
+    **Core contributor**, responsible for efficient & safety-aware reasoning training. Work done during an internship at Shanghai AI Lab.  
     [Technical Report](https://arxiv.org/abs/2507.18576)
 
 ## Publications
@@ -43,10 +43,6 @@ My research focuses on Explainable AI (XAI), LLM Safety and Trustworthiness, LLM
 * **Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models**  
     Guanxu Chen\*, Yafu Li\*, Yuxian Jiang, Chen Qian, <b>Qihan Ren</b>, Jingyi Yang, Yu Cheng, Dongrui Liu, Jing Shao  
     arxiv 2025 / [Paper](https://arxiv.org/abs/2509.23962) / [GitHub](https://github.com/biuboomc/CANON)
-
-* **A Survey of Self-evolving Agents: On Path to Artificial Super Intelligence**  
-    Huan-ang Gao, Jiayi Geng, Wenyue Hua, Mengkang Hu, Xinzhe Juan, Hongzhang Liu, Shilong Liu, Jiahao Qiu, Xuan Qi, Yiran Wu, Hongru Wang, Han Xiao, Yuhang Zhou, Shaokun Zhang, Jiayi Zhang, Jinyu Xiang, Yixiong Fang, Qiwen Zhao, Dongrui Liu, <b>Qihan Ren</b>, Cheng Qian, Zhenhailong Wang, Minda Hu, Huazheng Wang, Qingyun Wu, Heng Ji, Mengdi Wang  
-    arxiv 2025 / [Paper](https://arxiv.org/abs/2507.21046) / [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents)
 
 * **Alita: Generalist Agent Enabling Ccalable Agentic Reasoning with Minimal Predefinition and Maximal Self-evolution**  
     Jiahao Qiu\*, Xuan Qi\*, Tongcheng Zhang\*, Xinzhe Juan, Jiacheng Guo, Yifu Lu, Yimin Wang, Zixin Yao, <b>Qihan Ren</b>, Xun Jiang, Xing Zhou, Dongrui Liu, Ling Yang, Yue Wu, Kaixuan Huang, Shilong Liu, Hongru Wang, Mengdi Wang  
@@ -83,6 +79,11 @@ My research focuses on Explainable AI (XAI), LLM Safety and Trustworthiness, LLM
     NeurIPS 2021 / [Paper](https://arxiv.org/abs/2111.03549) / [GitHub](https://github.com/ada-shen/Interpret_quality) / [Video](https://nips.cc/virtual/2021/poster/27421)
 
 ### Journal papers
+* **A Survey of Self-evolving Agents: On Path to Artificial Super Intelligence**  
+    Huan-ang Gao\*, Jiayi Geng\*, Wenyue Hua\*, Mengkang Hu\*, Xinzhe Juan\*, Hongzhang Liu\*, Shilong Liu\*, Jiahao Qiu\*, Xuan Qi\*, <b>Qihan Ren</b>\*, Yiran Wu\*, Hongru Wang\*, Han Xiao\*, Yuhang Zhou\*, Shaokun Zhang\*, Jiayi Zhang, Jinyu Xiang, Yixiong Fang, Qiwen Zhao, Dongrui Liu, Cheng Qian, Zhenhailong Wang, Minda Hu, Huazheng Wang, Qingyun Wu, Heng Ji, Mengdi Wang  
+    \* Equal contribution and the order is determined alphabetically  
+    TMLR 2025 / [Paper](https://arxiv.org/abs/2507.21046) / [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents)
+
 * **Interpretable Rotation-Equivariant Multiary-Valued Network for Attribute Obfuscation**  
     Quanshi Zhang, Hao Zhang, Yiting Chen, <b>Qihan Ren</b>, Jie Ren, Xu Cheng, Liyao Xiang  
     IEEE T-PAMI 2025 / [Paper](https://ieeexplore.ieee.org/abstract/document/11127007)
