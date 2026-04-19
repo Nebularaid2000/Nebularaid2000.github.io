@@ -11,17 +11,18 @@ redirect_from:
 
 I'm a fourth-year Ph.D. student in Computer Science at Shanghai Jiao Tong University (SJTU), advised by Prof. [Quanshi Zhang](http://qszhang.com). I'm a member of the [Lab for Interpretable Machine Learning](https://sjtu-xai-lab.github.io/). Previously, I enrolled in the Dual Degree Program at University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI), in which I obtained a B.S.Eng. degree in Computer Science at University of Michigan, Ann Arbor, and a B.S.Eng. degree in Electrical and Computer Engineering (ECE) at Shanghai Jiao Tong University.
 
-My research focuses on Explainable AI (XAI), LLM Safety and Trustworthiness, LLM Reasoning:
-- Explaining DNNs with game-theoretic interactions
-- Learning dynamics in the concept space
-- Frontier risks of LLMs and Agents 
+My research spans Explainable AI (XAI), LLM and agent safety, LLM reasoning, and agentic RL:
+- Explaining deep models with game-theoretic interactions
+- Frontier risks of LLMs and agents 
 - Understanding post-training techniques (e.g., SFT, RL) of large reasoning models (LRMs)
+- Agentic RL for long-horizon tasks
 
 
 ## News
+- [2026.01] Four papers accepted by **ICLR 2026**!
+- [2025.07] Safework-R1 model series is released at WAIC 2025!
 - [2024.11-12] Talks at University of California, Los Angeles (**UCLA**) / University of Southern California (**USC**) / University of California, Berkeley (**UCB**) / Johns Hopkins University (**JHU**) / University of Pennsylvania (**UPenn**). An unforgettable journey in the U.S.!
 - [2024.10] Remote talk at Carnegie Mellon University (**CMU**) with Prof. Quanshi Zhang.
-- [2024.09] Talk at "AI+X" National Excellent PhD Forum at Peking University.
 - [2024.09] One paper (see [Project page](https://sjtu-xai-lab.github.io/InteractionDynamics/)) accepted by **NeurIPS 2024**!
 - [2024.01] One paper (see [Project page](https://sjtu-xai-lab.github.io/InteractionSparsity/)) accepted by **ICLR 2024**!
 
@@ -29,30 +30,45 @@ My research focuses on Explainable AI (XAI), LLM Safety and Trustworthiness, LLM
 
 * **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law**  
     **Core contributor**, responsible for efficient & safety-aware reasoning training. Work done during an internship at Shanghai AI Lab.  
-    [Technical Report](https://arxiv.org/abs/2507.18576)
+    [Technical Report](https://arxiv.org/abs/2507.18576) / [Huggingface](https://huggingface.co/collections/AI45Research/safework-r1)
+
+* **AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security**  
+    **Core contributor**. Work done during an internship at Shanghai AI Lab.  
+    [Technical Report](https://arxiv.org/abs/2601.18491) / [GitHub](https://github.com/AI45Lab/AgentDoG) / [Huggingface](https://huggingface.co/collections/AI45Research/agentdog)
 
 ## Publications
 (* indicates equal contribution)
 
 ### Preprints
 
-* **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents**  
-    Shuai Shao\*, <b>Qihan Ren\*</b>, Chen Qian, Boyi Wei, Dadi Guo, Jingyi Yang, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao  
-    arxiv 2025 / [Paper](https://arxiv.org/abs/2509.26354) / [GitHub](https://github.com/ShaoShuai0605/Misevolution)
+* **Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability**  
+    <b>Qihan Ren</b>\*, Peng Wang\*, Ruikun Cai, Shuai Shao, Dadi Guo, Yuejin Xie, Yafu Li, Quanshi Zhang, Xia Hu, Jing Shao, Dongrui Liu  
+    arxiv 2026 / [Paper](https://arxiv.org/abs/2604.06628) / [GitHub](https://github.com/Nebularaid2000/rethink_sft_generalization) / [Huggingface](https://huggingface.co/collections/jasonrqh/rethink-sft-generalization)
 
-* **Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models**  
-    Guanxu Chen\*, Yafu Li\*, Yuxian Jiang, Chen Qian, <b>Qihan Ren</b>, Jingyi Yang, Yu Cheng, Dongrui Liu, Jing Shao  
-    arxiv 2025 / [Paper](https://arxiv.org/abs/2509.23962) / [GitHub](https://github.com/biuboomc/CANON)
 
 * **Alita: Generalist Agent Enabling Ccalable Agentic Reasoning with Minimal Predefinition and Maximal Self-evolution**  
-    Jiahao Qiu\*, Xuan Qi\*, Tongcheng Zhang\*, Xinzhe Juan, Jiacheng Guo, Yifu Lu, Yimin Wang, Zixin Yao, <b>Qihan Ren</b>, Xun Jiang, Xing Zhou, Dongrui Liu, Ling Yang, Yue Wu, Kaixuan Huang, Shilong Liu, Hongru Wang, Mengdi Wang  
+    Jiahao Qiu et al. (<b>Co-author</b>)  
     arxiv 2025 / [Paper](https://arxiv.org/abs/2505.20286) / [GitHub](https://github.com/CharlesQ9/Alita)
 
 * **Revisiting Generalization Power of a DNN in Terms of Symbolic Interactions**  
     Lei Cheng, Junpeng Zhang, <b>Qihan Ren</b>, Quanshi Zhang  
     arxiv 2025 / [Paper](https://arxiv.org/abs/2502.10162)
 
+
 ### Conference papers
+
+* **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents**  
+    Shuai Shao\*, <b>Qihan Ren\*</b>, Chen Qian, Boyi Wei, Dadi Guo, Jingyi Yang, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao  
+    ICLR 2026 / [Paper](https://arxiv.org/abs/2509.26354) / [GitHub](https://github.com/ShaoShuai0605/Misevolution)
+
+* **Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models**  
+    Guanxu Chen\*, Yafu Li\*, Yuxian Jiang, Chen Qian, <b>Qihan Ren</b>, Jingyi Yang, Yu Cheng, Dongrui Liu, Jing Shao  
+    ICLR 2026 / [Paper](https://arxiv.org/abs/2509.23962) / [GitHub](https://github.com/biuboomc/CANON)
+
+* **Towards Self-Evolving Agent Benchmarks: Validatable Agent Trajectory via Test-Time Exploration**  
+    Dadi Guo\*, Tianyi Zhou\*, Dongrui Liu\*, Chen Qian, <b>Qihan Ren</b>, Shuai Shao, Zhiyuan Fan, Yi-R. Fung, Kun Wang, Linfeng Zhang, Jing Shao  
+    ICLR 2026 / [Paper](https://arxiv.org/abs/2510.00415)
+
 
 * **Towards the Dynamics of a DNN Learning Symbolic Interactions**  
     <b>Qihan Ren</b>\*, Junpeng Zhang\*, Yang Xu, Yue Xin, Dongrui Liu, and Quanshi Zhang  
@@ -98,6 +114,10 @@ My research focuses on Explainable AI (XAI), LLM Safety and Trustworthiness, LLM
     [Book link](https://item.jd.com/13700578.html) 
 
 
+## Experience
+* [2026.01 - Present] Intern at Minimax, Shanghai. Focus on agentic RL for long-horizon, repository-level coding tasks.
+* [2025.03 - 2026.01] Research intern at Shanghai AI Lab. Focus on LLM reasoning & LLM/Agent safety, mentored by [Dongrui Liu](https://shenqildr.github.io/).
+
 
 ## Presentations and Invited Talks
 
@@ -109,7 +129,7 @@ My research focuses on Explainable AI (XAI), LLM Safety and Trustworthiness, LLM
 
 
 ## Selected Honors and Awards
-- [2024.12] First Prize in the Excellent PhD Forum at John Hopcroft Center, SJTU
+- [2023.01] SJTU Wenjun Wu AI class 吴文俊班 (16 selected)
 - [2022.06] Outstanding graduate of Shanghai Jiao Tong University
 - [2022.01] James B. Angell Scholar
 - [2021.12] Dean’s List of University of Michigan
