@@ -11,102 +11,97 @@ redirect_from:
 
 I'm a fourth-year Ph.D. student in Computer Science at Shanghai Jiao Tong University (SJTU), advised by Prof. [Quanshi Zhang](http://qszhang.com). I'm a member of the [Lab for Interpretable Machine Learning](https://sjtu-xai-lab.github.io/). Previously, I enrolled in the Dual Degree Program at University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI), in which I obtained a B.S.Eng. degree in Computer Science at University of Michigan, Ann Arbor, and a B.S.Eng. degree in Electrical and Computer Engineering (ECE) at Shanghai Jiao Tong University.
 
-My research spans Explainable AI (XAI), LLM and agent safety, LLM reasoning, and agentic RL:
-- Explaining deep models with game-theoretic interactions
+My research spans Explainable AI (XAI), LLM/agent safety, LLM post-training for reasoning and agentic coding:
+- Game-theoretic explanation of deep models
 - Frontier risks of LLMs and agents 
-- Understanding post-training techniques (e.g., SFT, RL) of large reasoning models (LRMs)
-- Agentic RL for long-horizon tasks
+- Understanding post-training techniques (e.g., SFT, RL) of large reasoning models
+- Agentic RL for zero-to-one coding tasks
 
 
 ## News
-- [2026.01] Four papers accepted by **ICLR 2026**!
+- [2026.06] Minimax-M3 released! Built SFT data for webdev verifier and designed agentic RL pipeline for zero-to-one webdev tasks.
+- [2026.01] Four papers accepted by ICLR 2026!
 - [2025.07] Safework-R1 model series is released at WAIC 2025!
-- [2024.11-12] Talks at University of California, Los Angeles (**UCLA**) / University of Southern California (**USC**) / University of California, Berkeley (**UCB**) / Johns Hopkins University (**JHU**) / University of Pennsylvania (**UPenn**). An unforgettable journey in the U.S.!
-- [2024.10] Remote talk at Carnegie Mellon University (**CMU**) with Prof. Quanshi Zhang.
-- [2024.09] One paper (see [Project page](https://sjtu-xai-lab.github.io/InteractionDynamics/)) accepted by **NeurIPS 2024**!
-- [2024.01] One paper (see [Project page](https://sjtu-xai-lab.github.io/InteractionSparsity/)) accepted by **ICLR 2024**!
+- [2024.11-12] Talks at UCLA, USC, UCB, JHU, and UPenn. An unforgettable journey in the U.S.!
+- [2024.10] Remote talk at CMU with Prof. Quanshi Zhang.
+- [2024.09] One paper accepted by NeurIPS 2024!
+- [2024.01] One paper accepted by ICLR 2024!
 
-## Projects
 
-* **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law**  
-    **Core contributor**, responsible for efficient & safety-aware reasoning training. Work done during an internship at Shanghai AI Lab.  
-    [Technical Report](https://arxiv.org/abs/2507.18576) / [Huggingface](https://huggingface.co/collections/AI45Research/safework-r1)
+
+## Projects & Technical Reports
+* **The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence**  
+    Responsible for webdev evaluation pipeline based on agent-as-a-verifier.  
+    [Technical Report](https://arxiv.org/abs/2605.26494) 
+
 
 * **AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security**  
-    **Core contributor**. Work done during an internship at Shanghai AI Lab.  
+    **Core contributor**, responsible for taxonomy design and SFT training. Work done during an internship at Shanghai AI Lab.  
     [Technical Report](https://arxiv.org/abs/2601.18491) / [GitHub](https://github.com/AI45Lab/AgentDoG) / [Huggingface](https://huggingface.co/collections/AI45Research/agentdog)
 
-## Publications
-(* indicates equal contribution)
+* **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law**  
+    **Core contributor**, responsible for efficient & safety-aware reasoning RL. Work done during an internship at Shanghai AI Lab.  
+    [Technical Report](https://arxiv.org/abs/2507.18576) / [Huggingface](https://huggingface.co/collections/AI45Research/safework-r1)
 
-### Preprints
+
+
+## Selected Publications
+\* indicates equal contribution
+
+See [Google scholar](https://scholar.google.com/citations?user=ybTy_DwAAAAJ) for full publication list.
+
+### Papers
 
 * **Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability**  
     <b>Qihan Ren</b>\*, Peng Wang\*, Ruikun Cai, Shuai Shao, Dadi Guo, Yuejin Xie, Yafu Li, Quanshi Zhang, Xia Hu, Jing Shao, Dongrui Liu  
-    arxiv 2026 / [Paper](https://arxiv.org/abs/2604.06628) / [GitHub](https://github.com/Nebularaid2000/rethink_sft_generalization) / [Huggingface](https://huggingface.co/collections/jasonrqh/rethink-sft-generalization)
-
-
-* **Alita: Generalist Agent Enabling Ccalable Agentic Reasoning with Minimal Predefinition and Maximal Self-evolution**  
-    Jiahao Qiu et al. (<b>Co-author</b>)  
-    arxiv 2025 / [Paper](https://arxiv.org/abs/2505.20286) / [GitHub](https://github.com/CharlesQ9/Alita)
-
-* **Revisiting Generalization Power of a DNN in Terms of Symbolic Interactions**  
-    Lei Cheng, Junpeng Zhang, <b>Qihan Ren</b>, Quanshi Zhang  
-    arxiv 2025 / [Paper](https://arxiv.org/abs/2502.10162)
-
-
-### Conference papers
+    **arxiv 2026** / [Paper](https://arxiv.org/abs/2604.06628) / [GitHub](https://github.com/Nebularaid2000/rethink_sft_generalization) / [Huggingface](https://huggingface.co/collections/jasonrqh/rethink-sft-generalization)
 
 * **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents**  
     Shuai Shao\*, <b>Qihan Ren\*</b>, Chen Qian, Boyi Wei, Dadi Guo, Jingyi Yang, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao  
-    ICLR 2026 / [Paper](https://arxiv.org/abs/2509.26354) / [GitHub](https://github.com/ShaoShuai0605/Misevolution)
+    **ICLR 2026** / [Paper](https://arxiv.org/abs/2509.26354) / [GitHub](https://github.com/ShaoShuai0605/Misevolution)
 
-* **Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models**  
-    Guanxu Chen\*, Yafu Li\*, Yuxian Jiang, Chen Qian, <b>Qihan Ren</b>, Jingyi Yang, Yu Cheng, Dongrui Liu, Jing Shao  
-    ICLR 2026 / [Paper](https://arxiv.org/abs/2509.23962) / [GitHub](https://github.com/biuboomc/CANON)
-
-* **Towards Self-Evolving Agent Benchmarks: Validatable Agent Trajectory via Test-Time Exploration**  
-    Dadi Guo\*, Tianyi Zhou\*, Dongrui Liu\*, Chen Qian, <b>Qihan Ren</b>, Shuai Shao, Zhiyuan Fan, Yi-R. Fung, Kun Wang, Linfeng Zhang, Jing Shao  
-    ICLR 2026 / [Paper](https://arxiv.org/abs/2510.00415)
-
-
-* **Towards the Dynamics of a DNN Learning Symbolic Interactions**  
-    <b>Qihan Ren</b>\*, Junpeng Zhang\*, Yang Xu, Yue Xin, Dongrui Liu, and Quanshi Zhang  
-    NeurIPS 2024 / [Paper](https://arxiv.org/abs/2407.19198) / [Zhihu](https://zhuanlan.zhihu.com/p/711281443) / [Project page](https://sjtu-xai-lab.github.io/InteractionDynamics/)
-
-* **Where We Have Arrived in Proving the Emergence of Sparse Interaction Primitives in DNNs**  
-    <b>Qihan Ren</b>, Jiayang Gao, Wen Shen, and Quanshi Zhang  
-    ICLR 2024 / [Paper](https://openreview.net/forum?id=3pWSL8My6B) / [GitHub](https://github.com/sjtu-xai-lab/interaction-sparsity) / [Zhihu](https://zhuanlan.zhihu.com/p/693747946) / [Project page](https://sjtu-xai-lab.github.io/InteractionSparsity/)
-
-* **Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities**  
-    Dongrui Liu\*, Huiqi Deng\*, Xu Cheng, <b>Qihan Ren</b>, Kangrui Wang, and Quanshi Zhang  
-    NeurIPS 2023 / [Paper](https://openreview.net/forum?id=mZ3hnyL9bS) / [GitHub](https://github.com/sjtu-xai-lab/Learn)
-
-* **Bayesian Neural Networks Avoid Encoding Perturbation-sensitive and Complex Concepts**  
-    <b>Qihan Ren</b>\*, Huiqi Deng\*, Yunuo Chen, Siyu Lou, and Quanshi Zhang  
-    ICML 2023 / [Paper](https://openreview.net/forum?id=UkG4Nn634P) / [GitHub](https://github.com/sjtu-xai-lab/BNN-concepts) / [Video](https://icml.cc/virtual/2023/poster/24385)
-
-* **Discovering and Explaining the Representation Bottleneck of DNNs**  
-    Huiqi Deng\*, <b>Qihan Ren</b>\*, Hao Zhang, and Quanshi Zhang  
-    ICLR 2022 **(Oral)** / [Paper](https://openreview.net/forum?id=iRCUlgmdfHJ) / [GitHub](https://github.com/Nebularaid2000/bottleneck) / [Video](https://iclr.cc/virtual/2022/oral/6623) / [Zhihu](https://zhuanlan.zhihu.com/p/422420088)
-
-* **Interpreting Representation Quality of DNNs for 3D Point Cloud Processing**   
-    Wen Shen, <b>Qihan Ren</b>, Dongrui Liu, and Quanshi Zhang  
-    NeurIPS 2021 / [Paper](https://arxiv.org/abs/2111.03549) / [GitHub](https://github.com/ada-shen/Interpret_quality) / [Video](https://nips.cc/virtual/2021/poster/27421)
-
-### Journal papers
 * **A Survey of Self-evolving Agents: On Path to Artificial Super Intelligence**  
     Huan-ang Gao\*, Jiayi Geng\*, Wenyue Hua\*, Mengkang Hu\*, Xinzhe Juan\*, Hongzhang Liu\*, Shilong Liu\*, Jiahao Qiu\*, Xuan Qi\*, <b>Qihan Ren</b>\*, Yiran Wu\*, Hongru Wang\*, Han Xiao\*, Yuhang Zhou\*, Shaokun Zhang\*, Jiayi Zhang, Jinyu Xiang, Yixiong Fang, Qiwen Zhao, Dongrui Liu, Cheng Qian, Zhenhailong Wang, Minda Hu, Huazheng Wang, Qingyun Wu, Heng Ji, Mengdi Wang  
     \* Equal contribution and the order is determined alphabetically  
-    TMLR 2025 / [Paper](https://arxiv.org/abs/2507.21046) / [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents)
+    **TMLR 2025** / [Paper](https://arxiv.org/abs/2507.21046) / [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents)
+
+* **Alita: Generalist Agent Enabling Ccalable Agentic Reasoning with Minimal Predefinition and Maximal Self-evolution**  
+    Jiahao Qiu et al. (<b>Co-author</b>)  
+    **arxiv 2025** / [Paper](https://arxiv.org/abs/2505.20286) / [GitHub](https://github.com/CharlesQ9/Alita)
 
 * **Interpretable Rotation-Equivariant Multiary-Valued Network for Attribute Obfuscation**  
     Quanshi Zhang, Hao Zhang, Yiting Chen, <b>Qihan Ren</b>, Jie Ren, Xu Cheng, Liyao Xiang  
-    IEEE T-PAMI 2025 / [Paper](https://ieeexplore.ieee.org/abstract/document/11127007)
+    **IEEE T-PAMI 2025** / [Paper](https://ieeexplore.ieee.org/abstract/document/11127007)
+
+* **Towards the Dynamics of a DNN Learning Symbolic Interactions**  
+    <b>Qihan Ren</b>\*, Junpeng Zhang\*, Yang Xu, Yue Xin, Dongrui Liu, and Quanshi Zhang  
+    **NeurIPS 2024** / [Paper](https://arxiv.org/abs/2407.19198) / [Zhihu](https://zhuanlan.zhihu.com/p/711281443) / [Project page](https://sjtu-xai-lab.github.io/InteractionDynamics/)
 
 * **Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing**  
     Wen Shen, Zhihua Wei, <b>Qihan Ren</b>, Binbin Zhang, Shikun Huang, Jiaqi Fan, and Quanshi Zhang  
-    IEEE T-PAMI 2024 / [Paper](https://ieeexplore.ieee.org/abstract/document/10384563)
+    **IEEE T-PAMI 2024** / [Paper](https://ieeexplore.ieee.org/abstract/document/10384563)
+
+* **Where We Have Arrived in Proving the Emergence of Sparse Interaction Primitives in DNNs**  
+    <b>Qihan Ren</b>, Jiayang Gao, Wen Shen, and Quanshi Zhang  
+    **ICLR 2024** / [Paper](https://openreview.net/forum?id=3pWSL8My6B) / [GitHub](https://github.com/sjtu-xai-lab/interaction-sparsity) / [Zhihu](https://zhuanlan.zhihu.com/p/693747946) / [Project page](https://sjtu-xai-lab.github.io/InteractionSparsity/)
+
+* **Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities**  
+    Dongrui Liu\*, Huiqi Deng\*, Xu Cheng, <b>Qihan Ren</b>, Kangrui Wang, and Quanshi Zhang  
+    **NeurIPS 2023** / [Paper](https://openreview.net/forum?id=mZ3hnyL9bS) / [GitHub](https://github.com/sjtu-xai-lab/Learn)
+
+* **Bayesian Neural Networks Avoid Encoding Perturbation-sensitive and Complex Concepts**  
+    <b>Qihan Ren</b>\*, Huiqi Deng\*, Yunuo Chen, Siyu Lou, and Quanshi Zhang  
+    **ICML 2023** / [Paper](https://openreview.net/forum?id=UkG4Nn634P) / [GitHub](https://github.com/sjtu-xai-lab/BNN-concepts) / [Video](https://icml.cc/virtual/2023/poster/24385)
+
+* **Discovering and Explaining the Representation Bottleneck of DNNs**  
+    Huiqi Deng\*, <b>Qihan Ren</b>\*, Hao Zhang, and Quanshi Zhang  
+    **ICLR 2022** <span style="color: #d73a49; font-weight: bold;">(Oral)</span> / [Paper](https://openreview.net/forum?id=iRCUlgmdfHJ) / [GitHub](https://github.com/Nebularaid2000/bottleneck) / [Video](https://iclr.cc/virtual/2022/oral/6623) / [Zhihu](https://zhuanlan.zhihu.com/p/422420088)
+
+* **Interpreting Representation Quality of DNNs for 3D Point Cloud Processing**   
+    Wen Shen, <b>Qihan Ren</b>, Dongrui Liu, and Quanshi Zhang  
+    **NeurIPS 2021** / [Paper](https://arxiv.org/abs/2111.03549) / [GitHub](https://github.com/ada-shen/Interpret_quality) / [Video](https://nips.cc/virtual/2021/poster/27421)
+
+
 
 ### Book chapters
 
@@ -115,12 +110,14 @@ My research spans Explainable AI (XAI), LLM and agent safety, LLM reasoning, and
 
 
 ## Experience
-* [2026.01 - Present] Intern at Minimax, Shanghai. Focus on agentic RL for long-horizon, repository-level coding tasks.
+* [2026.06 - Present] Intern at Qwen, Hangzhou. Focus on coding agent data, e.g., rubrics synthesis and automated verification, agent-as-a-verifier for zero-to-one tasks.
+* [2026.02 - 2026.06] Intern at Minimax, Shanghai. Focus on agent-as-a-verifier and agentic RL for zero-to-one webdev coding tasks.
 * [2025.03 - 2026.01] Research intern at Shanghai AI Lab. Focus on LLM reasoning & LLM/Agent safety, mentored by [Dongrui Liu](https://shenqildr.github.io/).
 
 
 ## Presentations and Invited Talks
 
+* [2026.06] _Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents_. Talk at AgenticAICon 2026.
 * [2024.11-12] _Can inference logic of a neural network be faithfully explained as symbolic concepts?_ Talks at University of California, Los Angeles (**UCLA**) / University of Southern California (**USC**) / University of California, Berkeley (**UCB**) / Johns Hopkins University (**JHU**) / University of Pennsylvania (**UPenn**). <!-- (2024.11.16-12.7) -->
 * [2024.10] _Can inference logic of a neural network be faithfully explained as symbolic concepts?_  Remote talk at Carnegie Mellon University (**CMU**) with Prof. Quanshi Zhang. <!-- (2024.10.22) -->
 * [2024.09] _Theory and dynamical analysis of symbolic concepts encoded by deep neural networks._ "AI+X" National Excellent PhD Forum ("AI+X"全国优秀博士生论坛) at Peking University. <!-- (2024.9.28) -->
